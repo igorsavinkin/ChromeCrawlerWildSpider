@@ -1,7 +1,7 @@
 
 // 允许使用多tab并行crawl, 类似thread pool
 var 最多url数 = 10;
-var tab总数 = 3;
+var tab总数 = 5;
 
 var 待访问链接 = [];
 var 已访问链接 = [];
